@@ -1,16 +1,19 @@
-### Hi there 👋
+# A387-Jarkom-Labs
 
-<!--
-**renggram/renggram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tata cara menjalankan project:
+
+1. Install node modules
+
+```
+npm install
+```
+
+2. Jalankan project
+
+```
+npm run start
+```
